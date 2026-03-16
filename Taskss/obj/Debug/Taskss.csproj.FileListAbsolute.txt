@@ -1,0 +1,11 @@
+D:\ГАЗИЕВДЖАБРАИЛ\Taskss\bin\Debug\Taskss.exe.config
+D:\ГАЗИЕВДЖАБРАИЛ\Taskss\bin\Debug\Taskss.exe
+D:\ГАЗИЕВДЖАБРАИЛ\Taskss\bin\Debug\Taskss.pdb
+D:\ГАЗИЕВДЖАБРАИЛ\Taskss\obj\Debug\Taskss.csproj.AssemblyReference.cache
+D:\ГАЗИЕВДЖАБРАИЛ\Taskss\obj\Debug\Taskss.Form1.resources
+D:\ГАЗИЕВДЖАБРАИЛ\Taskss\obj\Debug\Taskss.Properties.Resources.resources
+D:\ГАЗИЕВДЖАБРАИЛ\Taskss\obj\Debug\Taskss.csproj.GenerateResource.cache
+D:\ГАЗИЕВДЖАБРАИЛ\Taskss\obj\Debug\Taskss.csproj.CoreCompileInputs.cache
+D:\ГАЗИЕВДЖАБРАИЛ\Taskss\obj\Debug\Taskss.exe
+D:\ГАЗИЕВДЖАБРАИЛ\Taskss\obj\Debug\Taskss.pdb
+D:\ГАЗИЕВДЖАБРАИЛ\Taskss\obj\Debug\Taskss.exe.config
