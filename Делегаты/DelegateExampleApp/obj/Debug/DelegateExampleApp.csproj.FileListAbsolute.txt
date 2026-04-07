@@ -1,0 +1,21 @@
+D:\Алик Абдурахманов\DelegateExampleApp\bin\Debug\DelegateExampleApp.exe.config
+D:\Алик Абдурахманов\DelegateExampleApp\bin\Debug\DelegateExampleApp.exe
+D:\Алик Абдурахманов\DelegateExampleApp\bin\Debug\DelegateExampleApp.pdb
+D:\Алик Абдурахманов\DelegateExampleApp\obj\Debug\DelegateExampleApp.csproj.AssemblyReference.cache
+D:\Алик Абдурахманов\DelegateExampleApp\obj\Debug\DelegateExampleApp.Form1.resources
+D:\Алик Абдурахманов\DelegateExampleApp\obj\Debug\DelegateExampleApp.Properties.Resources.resources
+D:\Алик Абдурахманов\DelegateExampleApp\obj\Debug\DelegateExampleApp.csproj.GenerateResource.cache
+D:\Алик Абдурахманов\DelegateExampleApp\obj\Debug\DelegateExampleApp.csproj.CoreCompileInputs.cache
+D:\Алик Абдурахманов\DelegateExampleApp\obj\Debug\DelegateExampleApp.exe
+D:\Алик Абдурахманов\DelegateExampleApp\obj\Debug\DelegateExampleApp.pdb
+C:\Users\rpk2024.8\Desktop\Делегаты\DelegateExampleApp\bin\Debug\DelegateExampleApp.exe.config
+C:\Users\rpk2024.8\Desktop\Делегаты\DelegateExampleApp\bin\Debug\DelegateExampleApp.exe
+C:\Users\rpk2024.8\Desktop\Делегаты\DelegateExampleApp\bin\Debug\DelegateExampleApp.pdb
+C:\Users\rpk2024.8\Desktop\Делегаты\DelegateExampleApp\obj\Debug\DelegateExampleApp.csproj.AssemblyReference.cache
+C:\Users\rpk2024.8\Desktop\Делегаты\DelegateExampleApp\obj\Debug\DelegateExampleApp.exe.config
+C:\Users\rpk2024.8\Desktop\Делегаты\DelegateExampleApp\obj\Debug\DelegateExampleApp.Form1.resources
+C:\Users\rpk2024.8\Desktop\Делегаты\DelegateExampleApp\obj\Debug\DelegateExampleApp.Properties.Resources.resources
+C:\Users\rpk2024.8\Desktop\Делегаты\DelegateExampleApp\obj\Debug\DelegateExampleApp.csproj.GenerateResource.cache
+C:\Users\rpk2024.8\Desktop\Делегаты\DelegateExampleApp\obj\Debug\DelegateExampleApp.csproj.CoreCompileInputs.cache
+C:\Users\rpk2024.8\Desktop\Делегаты\DelegateExampleApp\obj\Debug\DelegateExampleApp.exe
+C:\Users\rpk2024.8\Desktop\Делегаты\DelegateExampleApp\obj\Debug\DelegateExampleApp.pdb

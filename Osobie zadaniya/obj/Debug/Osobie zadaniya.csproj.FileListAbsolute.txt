@@ -1,0 +1,11 @@
+D:\ГАЗИЕВДЖАБРАИЛ\Osobie zadaniya\obj\Debug\Osobie zadaniya.csproj.AssemblyReference.cache
+D:\ГАЗИЕВДЖАБРАИЛ\Osobie zadaniya\obj\Debug\Osobie_zadaniya.Properties.Resources.resources
+D:\ГАЗИЕВДЖАБРАИЛ\Osobie zadaniya\obj\Debug\Osobie zadaniya.csproj.GenerateResource.cache
+D:\ГАЗИЕВДЖАБРАИЛ\Osobie zadaniya\obj\Debug\Osobie zadaniya.csproj.CoreCompileInputs.cache
+D:\ГАЗИЕВДЖАБРАИЛ\Osobie zadaniya\bin\Debug\Osobie zadaniya.exe.config
+D:\ГАЗИЕВДЖАБРАИЛ\Osobie zadaniya\bin\Debug\Osobie zadaniya.exe
+D:\ГАЗИЕВДЖАБРАИЛ\Osobie zadaniya\bin\Debug\Osobie zadaniya.pdb
+D:\ГАЗИЕВДЖАБРАИЛ\Osobie zadaniya\obj\Debug\Osobie zadaniya.exe
+D:\ГАЗИЕВДЖАБРАИЛ\Osobie zadaniya\obj\Debug\Osobie zadaniya.pdb
+D:\ГАЗИЕВДЖАБРАИЛ\Osobie zadaniya\obj\Debug\Osobie zadaniya.exe.config
+D:\ГАЗИЕВДЖАБРАИЛ\Osobie zadaniya\obj\Debug\Osobie_zadaniya.Form1.resources
