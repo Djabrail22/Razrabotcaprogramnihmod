@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "D:\\\u0413\u0410\u0417\u0418\u0415\u0412\u0414\u0416\u0410\u0411\u0420\u0410\u0418\u041B\\Osobie zadaniya\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{3EF57D3C-4DF9-4E98-A8C8-11DC6238C603}|Osobie zadaniya.csproj|d:\\\u0433\u0430\u0437\u0438\u0435\u0432\u0434\u0436\u0430\u0431\u0440\u0430\u0438\u043B\\osobie zadaniya\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3EF57D3C-4DF9-4E98-A8C8-11DC6238C603}|Osobie zadaniya.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3EF57D3C-4DF9-4E98-A8C8-11DC6238C603}|Osobie zadaniya.csproj|D:\\\u0413\u0410\u0417\u0418\u0415\u0412\u0414\u0416\u0410\u0411\u0420\u0410\u0418\u041B\\Osobie zadaniya\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+      "AbsoluteMoniker": "D:0:0:{3EF57D3C-4DF9-4E98-A8C8-11DC6238C603}|Osobie zadaniya.csproj|D:\\\u0413\u0410\u0417\u0418\u0415\u0412\u0414\u0416\u0410\u0411\u0420\u0410\u0418\u041B\\Osobie zadaniya\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EF57D3C-4DF9-4E98-A8C8-11DC6238C603}|Osobie zadaniya.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EF57D3C-4DF9-4E98-A8C8-11DC6238C603}|Osobie zadaniya.csproj|d:\\\u0433\u0430\u0437\u0438\u0435\u0432\u0434\u0436\u0430\u0431\u0440\u0430\u0438\u043B\\osobie zadaniya\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 9e9d1ff7d26773ed465d8e795453b2d0be0812e7
       "RelativeMoniker": "D:0:0:{3EF57D3C-4DF9-4E98-A8C8-11DC6238C603}|Osobie zadaniya.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
